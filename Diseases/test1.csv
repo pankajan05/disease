@@ -1,0 +1,191 @@
+ID,Disease,Symtom_01,Symtom_02,Symtom_03
+1,Fungal infection,itching,skin rash,skin eruptions
+2,Fungal infection,skin rash,skin eruptions,spots on the skin
+3,Fungal infection,itching,skin eruptions,spots on the skin
+4,Fungal infection,itching,skin rash,spots on the skin
+5,Allergy,red rash,cracked skin,blisters
+6,Common cold,sneezing,dry cough,Nasal congestion
+7,Common cold,high fever,fatigue,cough
+8,Common cold,chills,sneezing,dry cough
+9,Acne,blackheads,pus filled pimples,scurring
+10,Acne,blackheads,skin rash,scurring
+11,Acne,pus filled pimples,skin rash,scurring
+12,Acne,pus filled pimples,skin rash,blackheads
+13,Constipation,stomach ache and cramps,The stomach feeling bloated,loss of appetite
+14,kidney disease,swollen ankles,shortness of breath,an increased need to urinate
+15,Chest infection,rapid heartbeat,wheezing,chest pain
+16,Chicken pox,spots on the skin,fever,painful muscles
+17,Migraine,pain occur on both sides of head,dizziness,nausea
+18,Anxiety,restlessness,irritability,tiredness
+19, Dehydration,dryness of the lips,passing small amounts of urine infrequently,dizziness
+20,flu,joint pain,fever,difficulty sleeping
+21,Food poisoning,loss of appetite,stomach cramps and abdominal pain,vomiting
+22,Pneumonia,high fever,phlegm,breathlessness
+23,Pneumonia,chest pain,fever,cough
+24,Asthma,shortness of breath,fast heartbeat,chest tightness
+25,Diabetes ,numb or tingling hands or feet,dry skin,Impaired vision
+26,Catarrh,Impaired eyesight,headache,feeling as though there is a lump in the throat
+27,Gum disease,red and swollen gums,bleeding gums,unpleasant taste in  mouth
+28,tooth decay,toothache,an unpleasant taste in your mouth,"grey, brown or black spots appearing on your teeth"
+29,sore throats,difficulty  swallowing,difficult to speak,Inflammation of the throat
+30,shock,nausea and vomiting,Mental fear,confusion
+31,Allergy,shivering,skin rash,Extreme cold
+32,Osteoporosis,Back pain,bones that breaks much more easily ,Excessive pain in the bones
+33,Obesity,joint pains,Excessive sweating,Body weight gain
+34,Oral injuries,Bleeding from the mouth,swelling mouth,Toothache
+35,Anemia,Cold hands and feet,Skin that’s pale or yellow,Fast or unusual heartbeat
+36,Anemia,"Pain, including in your bones, chest, belly, and joints",Skin that’s pale or yellow,Dizziness
+37,lack of Vitamin B3 ,cracked skin that’s sensitive to the sun,Mouth sores,diarrhea
+38,lack of Vitamin B3 ,cracked skin that’s sensitive to the sun, swollen red tongue,vomiting
+39,Measles,small greyish-white spots in the mouth,fever,swollen eyelids
+40,Measles,small greyish-white spots in the mouth,swollen eyelids,aches and pains
+41,Malnutrition,decreasing body weight,feeling tired all the time and lacking energy,frequently getting infections
+42,Malnutrition,decreasing body weight,Digestive problems,changes in hair and skin colour
+43,Liver disease,Swelling in the legs and ankles,Dark-colored urine,Abdominal pain and swelling
+44,Liver disease,Swelling in the legs and ankles,Skin and eyes that appear yellowish ,Nausea 
+45,kidney stones,Need to urinate frequently,pain when  urinate,Bleeding with urine
+46,kidney stones,Need to urinate frequently,persistent ache in the lower back,Back pain
+47,kidney stones,Need to urinate frequently,pain when  urinate,nausea 
+48,Kidney infection,pain or a burning sensation during urination,need to urinate frequently or urgently,foul smelling urine
+49,Kidney infection,pain or a burning sensation during urination,pain in your lower abdomen,feeling that you're unable to urinate fully
+50,Indigestion,vomiting,Discomfort in the upper abdomen,loss of appetite
+51,Indigestion,Bloating in the upper abdomen.,vomiting,Fatigue
+52,liver infection,pain in the upper-right part of your tummy,itchy rash,loss of appetite
+53,liver infection,pain in the upper-right part of your tummy,joint and muscle pain,yellowing of the skin and eyes
+54,Cholesterol,high blood pressure,overweight of body,"pain in the neck, jaw, upper abdomen, or back"
+55,Cholesterol,high blood pressure,extreme fatigue,chest pain
+56,Heart failure,swollen ankles and legs,breathlessness,fatigue
+57,Heart failure,swollen ankles and legs,wheezing,Chest pain
+58,Gastrointestinal infections,frequent bowel movements,pain  in the stomach,inflammation of stomach
+59,Ear infection,pain or pressure inside the ear,itching  in around the ear,partial hearing loss
+60,Ear infection,pain or pressure inside the ear,scaliness of the skin around the ear,Injuries to the inside of the ear
+61,Throat infections,pain when swallowing,tiny red dots along the  the mouth,fever
+62,Throat infections,pain when swallowing,swollen lymph nodes in the front of the neck,hoarse voice
+63,Throat infections,pain when swallowing,swollen lymph nodes in the front of the neck,fever
+64,Skin infections,Red skin around the injury,on top of the skin yellowish crust ,The redness or swelling spreads
+65,Skin infections,Excessive pain on the skin surface,Itching and  fluid leaking ,The redness or swelling spreads
+66,Skin infections,Red skin around the injury,Sores that look like blisters,Swelling that gets worse
+67,Skin infections,Red skin around the injury,on top of the skin yellowish crust ,a red streak that spread your skin
+68,Blood infections,paleness of the face skin,high fever,rapid breathing
+69,Blood infections,paleness of the face skin,dizziness,red blisters on the skin
+70,Blood infections,paleness of the face skin,weak heart pulse,red blisters on the skin
+71,Diarrhoea,vomiting,urgency to go to the toilet,abdominal cramps
+72,Diarrhoea,frequent passing of loose feces,abdominal pains,nausea
+73,Gastritis,Stomach upset or pain,Feeling of  burning in your stomach,Loss of appetite
+74,Gastritis,Nausea and vomiting,Feeling of  burning in your stomach,Gnawing  ache or pain in stomach
+75,Gastritis,Stomach upset or pain,Belly /abdominal internal  bleeding,Feeling of  burning in your stomach
+76,Chest pain,Pressure  in chest,burning or tightness in chest ,"pain that radiates to neck, shoulders"
+77,Chest pain,Pressure  in chest,"pain that radiates to neck, shoulders",Shortness of breath
+78,Chest pain,Pressure  in chest,Dizziness ,Pain that is persistently present for many hours of chest
+79,Appendicitis,pain in  upper abdomen or around  bellybutton,pain in the lower right side of abdomen,fever
+80,Appendicitis,pain in  upper abdomen or around  bellybutton,indigestion,nausea
+81,Appendicitis,pain in  upper abdomen or around  bellybutton,abdominal swelling,pain in the lower right side of abdomen
+82,Appendicitis,pain in  upper abdomen or around  bellybutton,abdominal swelling,nausea
+83,Arthritis,joint pain, red skin on the affected joint,joint Stiffness
+84,Arthritis,joint pain,weakness of muscle ,The shape of the joint may change
+85,Arthritis,joint pain,pain when movement of the joints,The shape of the joint may change
+86,Arthritis,joint pain,joint Swelling,fracture of joints
+87,Nail Infections,Discolored nail ,cracked nail,Brittle nail
+88,Nail Infections,Discolored nail ,distorted nail,Pain around the nail
+89,Eye Infections,Itchy eyes,Inflammation of the eyes,Pain in the eye
+90,Eye Infections,Itchy eyes,A painful lump under  eye,Redness of the eyes
+91,Eye Infections,Itchy eyes,Frequent tears in the eyes,Redness of the eyes
+92,Eye Infections,Itchy eyes,Frequent tears in the eyes,The swollen nature of the eye
+93,Skin Disorders,raised bumps that are red or white on skin,"dry, cracked skin",red and  black spots on skin
+94,Skin Disorders,raised bumps that are red or white on skin,"dry, cracked skin",rash on the skin
+95,Skin Disorders,raised bumps that are red or white on skin,discolored patches on skin,Skin level lesions and bleeding
+96,Skin Disorders,painful or itchy on skin,Redness on the skin,red and  black spots on skin
+97,Skin Disorders,scaly or rough skin,Injuries on the skin,rash on the skin
+98,Stomach bloating,Abdominal protrusion,Abdominal pain and tightness,indigestion
+99,Stomach bloating,Abdominal protrusion,Loss of appetite,Intestinal acidity
+100,Stomach bloating,Abdominal protrusion,Nausea and vomiting,Loss of appetite
+101,Muscle aches,redness and swelling on muscle,stiffness  in the affected area,vomiting or running a fever
+102,Muscle aches,redness and swelling on muscle,muscle pain that occurs along with a rash,Difficulty  body movements
+103,Muscle aches,redness and swelling on muscle,muscles that are weak,Difficulty  body movements
+104,stress,Headaches,Frequent colds and infections,Low energy
+105,stress,loss of  appetite,Dry mouth and difficulty swallowing,Headaches
+106,stress,Headaches,Dry mouth and difficulty swallowing,rapid heartbeat
+107,stress,loss of  appetite,Headaches,pains  muscles
+108,Food poisoning,dehydration,stomach cramps and abdominal pain,vomiting
+109,Food poisoning,fever,abdominal cramps,Nausea
+110,Food poisoning,Nausea,Bloody diarrhea,aching muscles
+111,Hepatitis c virus infection,Dark-colored urine,Swelling in your legs,bad-smelling of Secret areas of the body
+112,Hepatitis c virus infection,Dark-colored urine,itchy of Secret areas of the body,drowsiness
+113,Hepatitis c virus infection,Dark-colored urine,itchy of Secret areas of the body,Bleed and bruise easily
+114,Hepatitis c virus infection,itchy of Secret areas of the body,Yellow discoloration of the skin and eyes,muscle aches
+115,Hepatitis c virus infection,Dark-colored urine,itchy of Secret areas of the body,loss of appetite
+116,Hepatitis B liver infection,urine turns brown or orange,Stomach pain,Fever
+117,Hepatitis B liver infection,skin or the whites of the eyes turn yellow,Body waste turn yellow,Joint pain
+118,Hepatitis B liver infection,urine turns brown or orange,skin or the whites of the eyes turn yellow,vomiting
+119,Hepatitis A,bowel movements,Loss of appetite,fever
+120,Hepatitis A,bowel movements,Joint pain,nausea 
+121,Hepatitis A,bowel movements,Intense itching,vomitting
+122,Hepatitis A,bowel movements,Yellowing of the skin and the whites of your eyes,Abdominal pain 
+123,Gastroesophageal reflux disease (GERD),Sensation of a lump in your throat,Difficulty swallowing,Nausea
+124,Gastroesophageal reflux disease (GERD),Sensation of a lump in your throat,Chest pain,Inflammation of the gums
+125,Gastroesophageal reflux disease (GERD),Sensation of a lump in your throat,burning sensation in the chest,Chronic sore throat
+126,Gastroesophageal reflux disease (GERD),Sensation of a lump in your throat,Vomiting,Inflammation of the gums
+127,Gastroesophageal reflux disease (GERD),Sensation of a lump in your throat,Trouble breathing,cough
+128,Psoriasis,silvery color scales on skin,Red patches on skin,skin around  joints crack and bleed
+129,Psoriasis,silvery color scales on skin,"Dry, cracked skin ",discoloured areas on the skin
+130,Psoriasis,silvery color scales on skin,itching,scaly spots on skin
+131,Psoriasis,silvery color scales on skin,burning on skin,discoloured areas on the skin
+132,Psoriasis,silvery color scales on skin,Swollen places on the skin,skin around  joints crack and bleed
+133,Hypothyroidism (body doesn't produce enough thyroid hormones),"slowed heart rate, movements, and speech","joint and muscle pain, cramps",fatigue
+134,Hypothyroidism (body doesn't produce enough thyroid hormones),"slowed heart rate, movements, and speech",weight gain,puffy face
+135,Hypothyroidism (body doesn't produce enough thyroid hormones),"slowed heart rate, movements, and speech",cold intolerance,delayed development of teeth
+136,Hypothyroidism (body doesn't produce enough thyroid hormones),"slowed heart rate, movements, and speech",constipation,cold intolerance
+137,Hypothyroidism (body doesn't produce enough thyroid hormones),"slowed heart rate, movements, and speech",slowed heart rate,body balance  issues
+138,jaundice,The whites of eyes look yellow,weight loss,a yellow tinge  skin
+139,jaundice,arms or legs looks yellow,Abdominal pain,pale stools
+140,jaundice,arms or legs looks yellow,The whites of eyes look yellow,itching
+141,Constipation,Loss of appetite ,a rectal blockage,hard stools
+142,kidney disease,swelling in limbs,decreased urine output,an increased need to urinate
+143,Chest infection ,rapid heartbeat,Blue colour around the lips,chest pain or tightness
+144,Chicken pox,spots on the skin,pink or red bumps,painful muscles
+145,Migraine,numbness in the one side of the body,dizziness,nausea
+146,Anxiety,anxious,irritability,tiredness
+147,Dehydration,dryness of the lips,passing small amounts of urine infrequently,Thirst
+148,flu,Vomiting ,fever,difficulty sleeping
+149,Food poisoning,abdominal cramps,stomach cramps and abdominal pain,vomiting
+150,Asthma,coughing,fast heartbeat,coughing and chest tightness
+151,Diabetes ,numb or tingling hands or feet,thirsty,Frequent urination
+152,Diabetes ,dry skin,sores that heal slowly,blurring of eyes
+153,Diabetes ,numb or tingling hands or feet,sores that heal slowly,Impaired vision
+154,Diabetes ,numb or tingling hands or feet,Fatigue,increased blood sugar level
+155,Tuberculosis,Coughing that lasts three or more weeks,Bleeding when coughing,Yellowish skin or eyes
+156,Tuberculosis,Coughing that lasts three or more weeks,Bleeding when coughing,Fatigue
+157,Tuberculosis,Coughing that lasts three or more weeks,nausea and vomiting ,pain with breathing or coughing
+158,Tuberculosis,Unintentional weight loss,Dark-colored urine,Bleeding when coughing
+159,Hypertension ,Irregular heartbeat,Difficulty breathing,Chest pain
+160,Hypertension ,Irregular heartbeat,Sweating,Fatigue or confusion
+161,Hypertension ,Irregular heartbeat,Dizziness,Severe headaches
+162,Hypertension ,Irregular heartbeat,Dizziness,Chest pain
+163,Hypertension ,Irregular heartbeat,Difficulty breathing,sweating profusely
+164,Blood in Urine (Hematuria),Pain in back or abdomen,Burning sensation when urinating,fever
+165,Blood in Urine (Hematuria),Kidney stones,lower belly pain,body swelling
+166,Blood in Urine (Hematuria),belly or pelvic pain.,pain when peeing,puffiness around eyes
+167,Blood in Urine (Hematuria),Burning sensation when urinating,pain in your lower back ,puffiness around eyes
+168,Impetigo( bacterial infection),Blisters ,glands swollen in the infected area,reddish skin
+169,Impetigo( bacterial infection),Blisters with yellow fluid,glands swollen in the infected area,itchy sores around the blisters
+170,Impetigo( bacterial infection),itching,glands swollen in the infected area,pus-filled sores
+171,Cervical spondylosis,Pain when standing,difficulty walking,numb or tingling hands or feet
+172,Cervical spondylosi,Pain when sitting,Pain when tilting neck backward,Muscle weakness
+173,Cervical spondylosi,Pain when sneezing,Muscle weakness,pain in spinal cord and nerves
+174,Cervical spondylosi,loss of body balance,pain in spinal cord and nerves,Muscle weakness
+175,Cervical spondylosi,pain in spinal cord and nerves,loss of body balance,Pain when standing
+176,yellow fever,Yellowish eyes,Fever,vomiting
+177,yellow fever,Yellowish eyes,blood when vomiting,abdominal pain
+178,yellow fever,Yellowish eyes,bleeding from the nose,Muscle pain
+179,yellow fever,Yellowish eyes,bleeding from the mouth,coughing
+180,yellow fever,Yellowish eyes,bleeding from the eyes,Dizziness
+181,Hyperthyroidism (Overactive Thyroid),swelling at the base of neck,Muscle weakness,fast heartbeat
+182,Hyperthyroidism (Overactive Thyroid),swelling at the base of neck,Changes in menstrual patterns,Impaired vision
+183,Hyperthyroidism (Overactive Thyroid),swelling at the base of neck,Irregular heartbeat,Skin thinning
+184,Hyperthyroidism (Overactive Thyroid),swelling at the base of neck,decreasing body weight,Fatigue
+185,Blepharitis,Redness of the eyes,eyelids sticking together ,mildly itchy of eyes
+186,Blepharitis,Redness of the eyes,sticky eyelids,lumps on the eyelid
+187,Blepharitis,Redness of the eyes,sticky eyelids,eyelid that's swollen
+188,Blepharitis,Redness of the eyes,itchy eyes,lumps on the eyelid
+189,Cirrhosis,red patches on palms,pale stools,yellowing of the eyes
+190,Cirrhosis,red patches on palms,yellowing of the skin,swollen legs

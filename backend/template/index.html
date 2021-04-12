@@ -13,10 +13,10 @@
          <nav></nav>
          <main><h1> රෝගය සහ පූර්ව ප්‍රතිකාරයන් නිවැරදිව හඳුනා ගැනීම සඳහා රෝග ලක්ෂණ ඇතුලත් කරන්න.</h1>
            
-           <form mehtod="post" enctype="multipart/form-data" action="predictDisease">
+           <form method="post" enctype="multipart/form-data" action="predictDisease">
                {% csrf_token %}
            <p>රෝග ලක්ෂණ 01:
-            <input list="html_elements" name="web_language1">
+            <input list="html_elements" name="symptom1">
             <datalist id="html_elements">
             <option value="හිසරදය "> </option>
             <option value="වමනය "> </option>
@@ -26,7 +26,7 @@
             <input type="reset">
         
              <p>රෝග ලක්ෂණ 02:
-              <input list="html_elements" name="web_language2">
+              <input list="html_elements" name="symptom2">
               <datalist id="html_elements">
               <option value="හිසරදය"> </option>
               <option value="වමනය"> </option>
@@ -36,7 +36,7 @@
               <input type="reset">
               
                <p>රෝග ලක්ෂණ 03:
-                <input list="html_elements" name="web_language3">
+                <input list="html_elements" name="symptom3">
                 <datalist id="html_elements">
                 <option value="හිසරදය"> </option>
                 <option value="වමනය"> </option>
