@@ -1,1 +1,15 @@
-{{data}}
+{% load static %}
+<html lang="en">
+<head>
+
+    <link rel="stylesheet" href="{% static './app.css' %}">
+</head>
+<body>
+The predicted disease: {{data}}<br><br><br>
+The treatments: <br>
+{{treatment.E}}<br>
+{{treatment.C}}<br>
+{{treatment.F}}<br>
+{{treatment.D}}<br>
+</body>
+</html>

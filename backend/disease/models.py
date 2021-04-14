@@ -15,12 +15,11 @@ class Treatment(models.Model):
 
 
 class Prediction(models.Model):
-    id = models.IntegerField(primary_key=True)
-    name = models.CharField(max_length=100)
-    symptom1 = models.CharField(max_length=100)
-    symptom2 = models.CharField(max_length=100)
-    symptom3 = models.CharField(max_length=100)
-    prediction = models.CharField(max_length=100)
+    name = models.CharField(max_length=100, default='')
+    symptom1 = models.CharField(max_length=100, default='')
+    symptom2 = models.CharField(max_length=100, default='')
+    symptom3 = models.CharField(max_length=100, default='')
+    prediction = models.CharField(max_length=100, default='')
 
     class Meta:
         db_table = "prediction"
