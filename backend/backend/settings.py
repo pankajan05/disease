@@ -76,9 +76,10 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'diseasepredition',
+        'NAME': 'diseaseprediction',
         'USER': 'root',
-        'PASSWORD': 'localhost',
+        'PASSWORD': '1234',
+        'HOST': 'localhost',
         'PORT': '3306',
         'OPTIONS': {
             'sql_mode': 'traditional',
