@@ -4,6 +4,7 @@ import joblib
 from googletrans import Translator
 import difflib
 
+
 knn = joblib.load('./model/KNNModel.pkl')
 
 disease=['Fungal infection', 'Allergy', 'Gastroesophageal reflux disease (GERD)', 'Chronic cholestasis',
